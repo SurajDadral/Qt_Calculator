@@ -23,8 +23,16 @@ You can simply build the Calculator using only one command. The steps are as fol
 
 1. Enter the Calculator directory with the command :
 
-  ````cd Calculator````
+    ````cd Calculator````
 
 1. Now, to make Calculator, run the command:
 
-  ````make````
+    ````make````
+    
+ 1. To run the Calculator, go to the directory Calculator-build:
+ 
+    ````cd Calculator-build````
+    
+ 1. Run Calculator by typing following command:
+ 
+    ````./Calculator````
