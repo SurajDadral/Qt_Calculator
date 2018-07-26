@@ -2,7 +2,7 @@
 
 This is a simple Calculator made using QtCreator.
 
-Pre-requisites
+## Pre-requisites
 
 The code requires the below mentioned packages to run properly on your system:
 * Git
