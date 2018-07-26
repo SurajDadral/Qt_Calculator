@@ -13,7 +13,7 @@ To install the above mentioned packages, run the command :
 
 ````sudo apt-get install git make qtcreator````
 
-Instructions
+## Instructions
 
 You can simply build the Calculator using only one command. The steps are as follows:
 
