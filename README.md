@@ -2,6 +2,8 @@
 
 This is a simple Calculator made using QtCreator.
 
+![Calculator](Calculator.png "Calculator")
+
 ## Pre-requisites
 
 The code requires the below mentioned packages to run properly on your system:
