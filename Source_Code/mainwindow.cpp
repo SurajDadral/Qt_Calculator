@@ -9,6 +9,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    this->setWindowTitle("Calculator");
     connect(ui->pushButton_0,SIGNAL(released()),SLOT(digit_pressed()));
     connect(ui->pushButton_1,SIGNAL(released()),SLOT(digit_pressed()));
     connect(ui->pushButton_2,SIGNAL(released()),SLOT(digit_pressed()));
